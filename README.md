@@ -8,7 +8,7 @@
 
 <h3>Contact</h3>
 
-[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jlassiezzeddine@gmail.com) [![discord](https://img.shields.io/badge/Discord-6e84d3?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/ezdeen#5391) [![phone](https://img.shields.io/badge/whatsapp-00a884?style=for-the-badge&logo=Whatsapp&logoColor=white)](tel:0021629850696) 
+[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jlassiezzeddine@gmail.com) [![discord](https://img.shields.io/badge/Discord-6e84d3?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/ezdeen#5391) [![phone](https://img.shields.io/badge/whatsapp-00a884?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/0021629850696) 
  
 
 <!-- 
