@@ -2,8 +2,8 @@
 <p> Fullstack Developer and UI Designer with Marketing background.<br/>Based in <img src="https://cdn-icons-png.flaticon.com/512/6176/6176836.png" height="16" width="16"/> <b>Tunis, Tunisia.</b></p>
 <h3>About me </h3>
 
- -  <p>💼 I'm currently working at <b>WeCraftBytes</b></p>
- -  <p> I'm more focus on frontend
+ -  <p>💼 I'm currently working at <b>WeCraftBytes.</b></p>
+ -  <p>🔍 I'm more focused on React.</p>
 
 
 <h3>Contact</h3>
