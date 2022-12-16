@@ -1,21 +1,21 @@
-<h2>Hi, I'm Ezzeddine Jlassi.</h2>
+<h1>Hi, I'm Ezzeddine Jlassi.</h1>
 <p> Fullstack Developer and UI Designer with Marketing background.<br/>Based in <img src="https://cdn-icons-png.flaticon.com/512/6176/6176836.png" height="16" width="16"/> <b>Tunis, Tunisia.</b></p>
-<h3>About me </h3>
+<h2>About me </h2>
 
 - <p>💼 I'm currently working at <b>WeCraftBytes.</b></p>
 - <p>🔍 I'm more focused on Frontend development with ReactJS.</p>
 - <p>📣 I'm a self-taught developer. I proudly found my way into the tech industry 18 months ago. If you are like me or you are just starting, feel free to reach out and ask for help.</p>
   
-<h3>Contact</h3>
+<h2>Contact</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlassiezzeddine@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-dee-ne/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ezdeen#5391)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0021629850696)
 
-<h3>Tools & Technologies</h3>
+<h2>Tools & Technologies</h2>
 
-Day to day
+<h4>Day to day</h4>
   
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/) 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/) 
@@ -39,7 +39,7 @@ Day to day
 [![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)](https://www.sketch.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 
-Other  
+<h4>Other</h4>  
  
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
