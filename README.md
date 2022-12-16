@@ -3,7 +3,7 @@
 <h3>About me </h3>
 
  -  <p>💼 I'm currently working at <b>WeCraftBytes.</b></p>
- -  <p>🔍 I'm more focused on React.</p>
+ -  <p>🔍 I'm more focused on ReactJS and NextJS.</p>
 
 
 <h3>Contact</h3>
