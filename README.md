@@ -4,7 +4,7 @@
 
 - <p>💼 I'm currently working at <b>WeCraftBytes.</b></p>
 - <p>🔍 I'm more focused on Frontend development with ReactJS.</p>
-- <p>📣 I'm a self-taught developer. I proudly found my way into the tech industry 18 months ago. If you are like me or you are just starting, feel free to reach out and ask for help.</p>
+- <p>📣 I'm a self-taught developer. I proudly found my way into the tech industry 18 months ago. If you are like me or you are just starting, feel free to reach out if you need help.</p>
   
 <h2>Contact</h2>
 
