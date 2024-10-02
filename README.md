@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ezzeddine Jlassi.</h1>
-<p> <b>Fullstack Developer</b>(ReactJS, NextJS NodeJS,.NET)<br/>Based in <img src="https://cdn-icons-png.flaticon.com/512/6176/6176836.png" height="16" width="16"/> <b>Tunis, Tunisia.</b></p>
+<p> <b>Fullstack Developer</b><br/>(ReactJS, NextJS NodeJS,.NET)<br/>Based in <img src="https://cdn-icons-png.flaticon.com/512/6176/6176836.png" height="16" width="16"/> <b>Tunis, Tunisia.</b></p>
 <h2>About me </h2>
 
 - <p>💼 I'm currently working at <b>Dune Technology ltd.</b></p>
