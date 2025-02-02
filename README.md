@@ -3,7 +3,7 @@
 <h2>About me </h2>
 
 - <p>💼 I'm currently working at <b>Dune Technology Ltd.</b></p>
-- <p>🔍 I'm more focused on Frontend development with ReactJS.</p>
+- <p>🔍 I'm more focused on Frontend development with NextJS.</p>
   
 <h2>Contact</h2>
 
